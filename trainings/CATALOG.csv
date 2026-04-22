@@ -1,0 +1,25 @@
+Sequence,Session ID,Title,Duration,Prerequisites,Unit,Target Audience,Materials Status,Phase,Category,Manual Reference
+1,Session-0,Google Workspace Fundamentals,1h 30m,Basic computer literacy,ALL,All PSHS-MC staff - mandatory for all units,Ready,Phase 1,Foundational,FAM 12.2
+2,LO-1,LibreOffice as Offline Backup,1h 00m,Session-0,ALL,All PSHS-MC staff - recommended for all units,Ready,Phase 1,Supplemental,N/A
+3,NLM-1,AI-Powered Meeting Minutes with NotebookLM,1h 00m,Session-0,ALL,All PSHS-MC staff - especially office secretaries,Ready,Phase 1,Supplemental,N/A
+4,HSU-1,Digital Health Records and Patient Tracking,1h 15m,Session-0,HSU,HSU staff - School Nurse - Physician,Planned,Phase 4,Unit-Specific,SSM 6.1 6.2
+5,HSU-2,Health Screening Workflow Automation,1h 00m,Session-0 HSU-1,HSU,HSU staff - School Nurse - Physician,Planned,Phase 4,Unit-Specific,SSM 6.1 6.2
+6,HSU-3,Infectious Disease Monitoring and Health Campaigns,0h 45m,Session-0,HSU,HSU staff - School Nurse - Physician,Ready,Phase 4,Unit-Specific,SSM 6.5 6.7
+7,LIB-1,Library Inventory and Circulation Management,1h 30m,Session-0,LIB,LIB staff - Librarian - Library Assistants,Planned,Phase 4,Unit-Specific,SSM 4.1 4.3 4.4
+8,LIB-2,Digital Library Promotion and Resource Management,1h 00m,Session-0 LIB-1,LIB,LIB staff - Librarian - Library Assistants,Planned,Phase 4,Unit-Specific,SSM 4.3
+9,REG-1,Digital Enrollment and Student Records Management,1h 30m,Session-0,REG,REG staff - Registrar - Registration Clerks,Planned,Phase 3,Unit-Specific,SSM 3.2 3.4 3.6
+10,REG-2,Attendance Tracking and NCE Campaign Management,1h 00m,Session-0 REG-1,REG,REG staff - Registrar - Registration Clerks,Planned,Phase 3,Unit-Specific,SSM 3.1 3.4
+11,RHU-1,Residence Hall Administration and Monitoring,1h 15m,Session-0,RHU,RHU staff - Residence Hall Head - Residence Hall Attendants,Ready,Phase 4,Unit-Specific,SSM 5.1 5.2
+12,GSU-1,Service Request and Maintenance Tracking,1h 30m,Session-0,GSU,GSU staff - Property Custodian,Planned,Phase 3,Unit-Specific,FAM 6.1 6.4 6.5
+13,GSU-2,Facility Use Management and Performance Evaluation,1h 00m,Session-0 GSU-1,GSU,GSU staff - Property Custodian - Security Head - Janitorial Services Head,Ready,Phase 3,Unit-Specific,FAM 6.2 6.3 6.6
+14,HRU-1,Recruitment and Applicant Tracking,1h 30m,Session-0,HRU,HRU staff - HRMO,Planned,Phase 2,Unit-Specific,FAM 4.1
+15,HRU-2,Training Management and Employee Records,1h 30m,Session-0 HRU-1,HRU,HRU staff - HRMO,Planned,Phase 2,Unit-Specific,FAM 4.7 4.17
+16,HRU-3,Attendance Tracking and Performance Management,1h 00m,Session-0,HRU,HRU staff - HRMO,Planned,Phase 2,Unit-Specific,FAM 4.5
+17,ITU-1,IT Service Management and Google Workspace Administration,1h 30m,Session-0,ITU,ITU staff - ISA - IT Personnel,Planned,Phase 2,Unit-Specific,FAM 12.1 12.2
+18,ITU-2,Backup Recovery and Security Practices,1h 00m,Session-0 ITU-1,ITU,ITU staff - ISA - IT Personnel,Planned,Phase 2,Unit-Specific,FAM 12.3 12.4
+19,PRU-1,Procurement Tracking and Quotation Management,1h 30m,Session-0,PRU,PRU staff - BAC Members,Planned,Phase 3,Unit-Specific,FAM 5.1 5.2
+20,PRU-2,External Provider Evaluation and Document Management,1h 00m,Session-0 PRU-1,PRU,PRU staff - BAC Members,Planned,Phase 3,Unit-Specific,FAM 5.7
+21,ACU-1,Financial Tracking and Reporting with Google Sheets,1h 30m,Session-0 intermediate sheets skills,ACU,ACU staff - Accountant - Budget Officer,Planned,Phase 3,Unit-Specific,FAM 8.1 8.2 9.4
+22,ACU-2,Payment Processing and Collection Management,1h 00m,Session-0 ACU-1,ACU,ACU staff - Accountant - Cashier,Planned,Phase 3,Unit-Specific,FAM 9.1 10.1 10.2 10.3
+23,RMU-1,Digital Records Tracking and Mail Management,1h 30m,Session-0,RMU,RMU staff - Records Officer - Receiving Clerks,Ready,Phase 2,Unit-Specific,FAM 13.1 13.2
+24,RMU-2,Records Inventory Disposition and Electronic Records,1h 00m,Session-0 RMU-1,RMU,RMU staff - Records Officer - Receiving Clerks,Planned,Phase 2,Unit-Specific,FAM 13.1
