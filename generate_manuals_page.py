@@ -100,7 +100,7 @@ def generate_manuals_page():
 <body>
     <div class="header">
         <h1>Philippine Science High School - Main Campus</h1>
-        <h2>Downloadable Manuals</h2>
+        <h2>Downloadable Manuals | <a href="index.html" style="color: white; text-decoration: none;">Forms</a> | <a href="editable-forms.html" style="color: white; text-decoration: none;">📋 Editable Forms</a></h2>
     </div>
 """)
 
